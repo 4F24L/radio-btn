@@ -77,7 +77,7 @@
 
 #btn1:checked ~ .btn1 .dot,
 #btn2:checked ~ .btn2 .dot{
-    transform: scale(1.2);
+    transform: scale(1.15);
     transition: all 0.3s ease;
 }
 
